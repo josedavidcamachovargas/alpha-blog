@@ -12,4 +12,4 @@ Popper: ['popper.js', 'default']
 
 }))
 
-module.exports = environment.toWebpackConfig();
+module.exports = environment
