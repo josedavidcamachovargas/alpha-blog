@@ -27,7 +27,6 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
-gem 'webpacker', '~> 5.0'  
 gem 'bootstrap'
 gem 'jquery-rails'
 gem 'popper'
